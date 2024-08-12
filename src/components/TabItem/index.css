@@ -1,0 +1,17 @@
+body,
+html {
+  color: white;
+}
+.tab-item {
+  margin: 10px;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+}
+
+.tab-item:hover {
+  text-decoration: underline;
+  color: brown;
+  transform: scale(1.04);
+  font-family: 'Bree Serif';
+}
